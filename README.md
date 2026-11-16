@@ -1,6 +1,6 @@
 # BetterSFS (v1.0)
 > Spaceflight Simulator mod
-#### This mod requires Spaceflight Simulator version 1.6 or above. 
+#### This mod requires Spaceflight Simulator 1.6 or newer version. 
 
 <img width="512" height="512" alt="bettersfs_logo" src="https://github.com/user-attachments/assets/1ef3ff97-36ab-4cd8-8063-c1e0a4962e40" />
 
