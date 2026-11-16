@@ -36,5 +36,4 @@ Now your blueprints are visible if you choose them in Blueprints menu.
 A compact minimap on your screen that shows facing direction, planets, orbit, apogee and perigee.
 
 <img width="1440" height="900" alt="bettersfs_showcase_4" src="https://github.com/user-attachments/assets/d3604263-b0fe-4aad-8050-35ea773dab2c" />
-<img width="1440" height="900" alt="bettersfs_showcase_5" src="https://github.com/user-attachments/assets/1306da8c-bde3-45f8-808e-f1cbff0c7ec8" />
 <img width="1440" height="900" alt="bettersfs_showcase_6" src="https://github.com/user-attachments/assets/13c65f05-c90a-4ac2-bebb-661341c42640" />
